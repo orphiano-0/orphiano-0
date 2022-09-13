@@ -1,7 +1,9 @@
-- 👋 Hi, Gabriel Orphiano
-- 👀 I’m interested in reading WebNovels and social science theoris
-- 🌱 I’m currently learning web development (html, css, and javascript) and Java. I am also interested in learning python. 
-- 📫 You can reach me through email-- gab.orphiano@gmail.com
+Hi! I am Gabriel Orphiano, second-year IT student at Technological Institute of the Philippines. Aspiring to become a successful software engineer. I am still nurturing my skills in web development and Java langugage.
+
+You can find me here: 
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-orphiano-77699a246/) • [Instagram](https://www.instagram.com/orph.no/) • [Reddit](https://www.reddit.com/user/aihays)
+
 
 <!---
 orphiano-0/orphiano-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
