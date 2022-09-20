@@ -2,7 +2,7 @@ Hi! I am Gabriel Orphiano, second-year Information Technology student at Technol
 
 You can find me here: 
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-orphiano-77699a246/) • [Instagram](https://www.instagram.com/orph.no/) • [Twitter]([https://www.reddit.com/user/aihays](https://twitter.com/orphian0))
+[LinkedIn](https://www.linkedin.com/in/gabriel-orphiano-77699a246/) • [Instagram](https://www.instagram.com/orph.no/) • [Twitter](https://twitter.com/orphian0)
 
 
 <!---
