@@ -1,4 +1,4 @@
-Hi! I am Gabriel Orphiano, second-year Information Technology student at Technological Institute of the Philippines. Aspiring to become a successful software engineer. Still nurturing my skills in web development and Java langugage.
+Hi! I am Gabriel Orphiano, second-year Information Technology student at Technological Institute of the Philippines. Aspiring to become a successful software engineer. Still nurturing my skills in web development and programming languages.
 
 You can find me here: 
 
