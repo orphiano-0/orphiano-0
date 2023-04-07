@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021. It's been years for me to create problems haha. <br>📚 I'm currently learning Web-Development and Cloud Computing. As of now, I took interest on Machine Learning and hoping to understand it more.<br>🎯 Goals: An aspiring Software Engineer and Freelance Full-stack Developer.<br>⚡ In my free time I read books; self-help and philosophical books and articles.<br>🔍 You can find me here: [LinkedIn](https://www.linkedin.com/in/gaborphiano/) • [Instagram](https://www.instagram.com/orph.no/) • [Twitter](https://twitter.com/orphian0)<p>
+<p align="left">✨ Creating bugs since 2021. It's been years for me to create problems haha. <br>📚 I'm currently learning Web-Development and Cloud Computing. As of now, I took interest on Machine Learning and hoping to understand it more.<br>🎯 Goals: An aspiring Software Engineer and Freelance Full-stack Developer.<br>⚡ In my free time I read books; self-help and philosophical books and articles.<br>
 
 ###
 
