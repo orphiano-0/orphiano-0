@@ -1,68 +1,39 @@
-<div align="center">
-  <img height="190" src="https://wallpaperaccess.com/full/2471283.gif"  />
-</div>
+<h1 align="center">Sup! Welcome!👋</h1>
 
 ###
 
-<div align="center">
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/gabriel-orphiano-77699a246/)
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />(https://twitter.com/orphian0)
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />https://linktr.ee/gabmorphs
-</div>
+<p align="left">My name is Gabriel Orphiano and I am currently a second-year Information Technology student at Technological Institute of the Philippines. I live in Metro Manila, Valenzuela City.</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=orphiano-0.orphiano-0&"  />
-</div>
+<h2 align="left">About me :></h2>
 
 ###
 
-<h2 align="center">sup! 👋</h2>
+<p align="left">✨ Creating bugs since 2021. It's been years for me to create problems haha. <br>📚 I'm currently learning Web-Development and Cloud Computing. As of now, I took interest on Machine Learning and hoping to understand it more.<br>🎯 Goals: An aspiring Software Engineer and Freelance Full-stack Developer.<br>⚡ In my free time I read books; self-help and philosophical books and articles.<br>🔍 You can find me here: [LinkedIn](https://www.linkedin.com/in/gabriel-orphiano-77699a246/) • [Instagram](https://www.instagram.com/orph.no/) • [Twitter](https://twitter.com/orphian0)</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Gabriel Orphiano, 2nd-year Information Technology student at Technological Institute of the Philippines - Manila Campus.  Aside from being <br><br>- 📚 I'm currently learning Web Development, Cloud Computing, and Machine Learning.<br>- ⚡ In my free time I read books; self-help, philosophies, and articles.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="40" width="52" alt="dot-net logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=orphiano-0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="180" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
 ###
-
-<!--[LinkedIn](https://www.linkedin.com/in/gabriel-orphiano-77699a246/) • [Instagram](https://www.instagram.com/orph.no/) • [Twitter](https://twitter.com/orphian0)-->
-
-
-<!---
-orphiano-0/orphiano-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
