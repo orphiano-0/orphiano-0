@@ -33,7 +33,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <img height="380" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 
 ###
