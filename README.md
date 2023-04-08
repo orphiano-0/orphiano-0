@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021. It's been years for me in creating tech-problems haha. <br>📚 I'm currently learning Web-Development and Cloud Computing. As of now, I took interest on Machine Learning and hoping to understand it more.<br>🎯 Goals: An aspiring Software Engineer and a writer.<br>⚡ In my free time I read books; self-help and philosophical books and articles.<br>
+<p align="left">✨ Creating bugs since 2021. It's been years for me on creating tech-problems haha. <br>📚 I'm currently learning Web-Development and Cloud Computing. As of now, I took interest on Machine Learning and hoping to understand it more.<br>🎯 Goals: An aspiring Software Engineer and a writer.<br>⚡ In my free time I read books; self-help and philosophical books and articles.<br>
 
 ###
 
