@@ -1,1 +1,1 @@
-attending classes, doing activities, developing ideas, & solving problem
+still figuring figures, pls give me projects
