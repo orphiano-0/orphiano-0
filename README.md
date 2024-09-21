@@ -1,1 +1,1 @@
-still figuring figures, pls give me projects
+figuring figures; definitely working on our capstone project
