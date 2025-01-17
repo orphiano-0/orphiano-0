@@ -1,1 +1,1 @@
-figuring figures; capstone done! time for self-discovery~
+figuring figures; looking for anything interesting~
