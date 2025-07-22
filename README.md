@@ -3,7 +3,7 @@
 gabriel_orphiano
 
 > now playing
-Building [⚔️ Resume Warrior: Career Mode... ███████████ 90%]
+building new project... Creating [███████████ 1%]
 
 > contact --social
 gab.orphiano@gmail.com
