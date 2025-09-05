@@ -3,8 +3,8 @@
 gabriel_orphiano
 
 > now playing
-building new project... Creating [███████████ 1%]
-plaza configuration... [██████████████%]
+building new project... Creating [███████████ 10%]
+plaza configuration... [█████████████ █%]
 
 > contact --social
 gab.orphiano@gmail.com
