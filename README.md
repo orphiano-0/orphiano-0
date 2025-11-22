@@ -4,7 +4,7 @@ gabriel_orphiano
 
 > now playing
 building new project... Creating [███████████ 10%]
-plaza configuration... [█████████████ █%]
+lua CRs & FRs... Developing [███████████ ██%]
 
 > contact --social
 gab.orphiano@gmail.com
