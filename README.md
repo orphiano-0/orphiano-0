@@ -3,8 +3,8 @@
 gabriel_orphiano
 
 > now playing
-building new project... Creating [███████████ 10%]
-lua CRs & FRs... Developing [███████████ ██%]
+building new project... Creating [███████████ 90%]
+magento modules... Developing [███████████ ██%]
 
 > contact --social
 gab.orphiano@gmail.com
