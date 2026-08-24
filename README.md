@@ -13,16 +13,16 @@ gabriel_orphiano
   },
 
   "stack": {
-    "languages": ["PHP", "JavaScript", "TypeScript", "Java", "SQL"],
+    "languages": ["PHP", "Dart", "JavaScript", "TypeScript", "Java", "SQL"],
     "frameworks": ["Magento 2", "Laravel", "Next.js", "Flutter"],
-    "databases": ["MySQL", "PostgreSQL"],
-    "tools": ["Git", "Docker", "Redis", "Composer"]
+    "databases": ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
+    "tools": ["Git", "Docker", "Redis", "Composer", "LLMs"]
   },
 
   "currently": {
     "building": ["Magento modules", "Side projects"],
     "learning": ["System Design", "Software Architecture"],
-    "exploring": ["API Design", "Cloud Infrastructure"]
+    "exploring": ["AI Engineering", "AI Automations"]
   }
 }
 
